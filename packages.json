@@ -14,5 +14,7 @@
   { "package":"visvalingam", "url":"https://github.com/coolbutuseless/visvalingam"},
   { "package":"zstdlite", "url":"https://github.com/coolbutuseless/zstdlite"},
   { "package":"lz4lite", "url":"https://github.com/coolbutuseless/lz4lite"},
+  { "package":"xxhashlite", "url":"https://github.com/coolbutuseless/xxhashlite"},
+  { "package":"yyjsonr", "url":"https://github.com/coolbutuseless/yyjsonr"},
   { "package":"flexo", "url":"https://github.com/coolbutuseless/flexo"}
 ]

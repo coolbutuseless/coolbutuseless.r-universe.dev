@@ -16,6 +16,7 @@
   { "package":"lz4lite", "url":"https://github.com/coolbutuseless/lz4lite"},
   { "package":"xxhashlite", "url":"https://github.com/coolbutuseless/xxhashlite"},
   { "package":"yyjsonr", "url":"https://github.com/coolbutuseless/yyjsonr"},
-  { "package":"flexo", "url":"https://github.com/coolbutuseless/flexo"}
-  { "package":"cryptorng", "url":"https://github.com/coolbutuseless/cryptorng"}
+  { "package":"flexo", "url":"https://github.com/coolbutuseless/flexo"},
+  { "package":"cryptorng", "url":"https://github.com/coolbutuseless/cryptorng"},
+  { "package":"rmonocypher", "url":"https://github.com/coolbutuseless/rmonocypher"}
 ]

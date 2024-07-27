@@ -20,4 +20,6 @@
   { "package":"cryptorng", "url":"https://github.com/coolbutuseless/cryptorng"},
   { "package":"rmonocypher", "url":"https://github.com/coolbutuseless/rmonocypher"}
   { "package":"callme", "url":"https://github.com/coolbutuseless/callme"}
+  { "package":"governor", "url":"https://github.com/coolbutuseless/governor"}
+  { "package":"serializer", "url":"https://github.com/coolbutuseless/serializer"}
 ]

@@ -22,4 +22,6 @@
   { "package":"callme", "url":"https://github.com/coolbutuseless/callme"}
   { "package":"governor", "url":"https://github.com/coolbutuseless/governor"}
   { "package":"serializer", "url":"https://github.com/coolbutuseless/serializer"}
+  { "package":"ctypesio", "url":"https://github.com/coolbutuseless/ctypesio"}
+  { "package":"fastpng", "url":"https://github.com/coolbutuseless/fastpng"}
 ]

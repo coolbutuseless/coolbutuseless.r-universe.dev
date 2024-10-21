@@ -16,6 +16,7 @@
   { "package":"lz4lite"        , "url":"https://github.com/coolbutuseless/lz4lite"},
   { "package":"nara"           , "url":"https://github.com/coolbutuseless/nara"},
   { "package":"poissoned"      , "url":"https://github.com/coolbutuseless/poissoned"},
+  { "package":"picohdr"        , "url":"https://github.com/coolbutuseless/picohdr"},
   { "package":"rbytecode"      , "url":"https://github.com/coolbutuseless/rbytecode"},
   { "package":"rvoronoi"       , "url":"https://github.com/coolbutuseless/rvoronoi"},
   { "package":"rmonocypher"    , "url":"https://github.com/coolbutuseless/rmonocypher"},

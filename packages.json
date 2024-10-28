@@ -13,6 +13,7 @@
   { "package":"ggpattern"      , "url":"https://github.com/coolbutuseless/ggpattern"},
   { "package":"ggsvg"          , "url":"https://github.com/coolbutuseless/ggsvg"},
   { "package":"governor"       , "url":"https://github.com/coolbutuseless/governor"},
+  { "package":"lofifonts"      , "url":"https://github.com/coolbutuseless/lofifonts"},
   { "package":"lz4lite"        , "url":"https://github.com/coolbutuseless/lz4lite"},
   { "package":"nara"           , "url":"https://github.com/coolbutuseless/nara"},
   { "package":"poissoned"      , "url":"https://github.com/coolbutuseless/poissoned"},

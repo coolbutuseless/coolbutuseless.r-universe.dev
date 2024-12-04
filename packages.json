@@ -21,6 +21,7 @@
   { "package":"poissoned"      , "url":"https://github.com/coolbutuseless/poissoned"},
   { "package":"picohdr"        , "url":"https://github.com/coolbutuseless/picohdr"},
   { "package":"rbytecode"      , "url":"https://github.com/coolbutuseless/rbytecode"},
+  { "package":"rectpacker"     , "url":"https://github.com/coolbutuseless/rectpacker"},
   { "package":"rvoronoi"       , "url":"https://github.com/coolbutuseless/rvoronoi"},
   { "package":"rmonocypher"    , "url":"https://github.com/coolbutuseless/rmonocypher"},
   { "package":"serializer"     , "url":"https://github.com/coolbutuseless/serializer"},

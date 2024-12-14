@@ -4,7 +4,7 @@
   { "package":"c64vice"        , "url":"https://github.com/coolbutuseless/c64vice"},
   { "package":"callme"         , "url":"https://github.com/coolbutuseless/callme"},
   { "package":"carelesswhisper", "url":"https://github.com/coolbutuseless/carelesswhisper"},
-  { "package":"colourlookup"   , "url":"https://github.com/coolbutuseless/colourlookup"},
+  { "package":"colorfast"      , "url":"https://github.com/coolbutuseless/colorfast"},
   { "package":"cryptorng"      , "url":"https://github.com/coolbutuseless/cryptorng"},
   { "package":"ctypesio"       , "url":"https://github.com/coolbutuseless/ctypesio"},
   { "package":"emphatic"       , "url":"https://github.com/coolbutuseless/emphatic"},

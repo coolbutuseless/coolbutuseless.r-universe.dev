@@ -1,4 +1,5 @@
 [
+  { "package":"bitstreamio"    , "url":"https://github.com/coolbutuseless/bitstreamio"},
   { "package":"c64asm"         , "url":"https://github.com/coolbutuseless/c64asm"},
   { "package":"c64tass"        , "url":"https://github.com/coolbutuseless/c64tass"},
   { "package":"c64vice"        , "url":"https://github.com/coolbutuseless/c64vice"},

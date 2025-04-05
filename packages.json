@@ -16,6 +16,7 @@
   { "package":"governor"       , "url":"https://github.com/coolbutuseless/governor"},
   { "package":"insitu"         , "url":"https://github.com/coolbutuseless/insitu"},
   { "package":"isocubes"       , "url":"https://github.com/coolbutuseless/isocubes"},
+  { "package":"kissatire"      , "url":"https://github.com/coolbutuseless/kissatire"},
   { "package":"lofifonts"      , "url":"https://github.com/coolbutuseless/lofifonts"},
   { "package":"lz4lite"        , "url":"https://github.com/coolbutuseless/lz4lite"},
   { "package":"nara"           , "url":"https://github.com/coolbutuseless/nara"},

@@ -25,6 +25,7 @@
   { "package":"rectpacker"     , "url":"https://github.com/coolbutuseless/rectpacker"},
   { "package":"rvoronoi"       , "url":"https://github.com/coolbutuseless/rvoronoi"},
   { "package":"rmonocypher"    , "url":"https://github.com/coolbutuseless/rmonocypher"},
+  { "package":"satire"         , "url":"https://github.com/coolbutuseless/satire"},
   { "package":"serializer"     , "url":"https://github.com/coolbutuseless/serializer"},
   { "package":"tickle"         , "url":"https://github.com/coolbutuseless/tickle"},
   { "package":"visvalingam"    , "url":"https://github.com/coolbutuseless/visvalingam"},

@@ -35,5 +35,6 @@
   { "package":"visvalingam"    , "url":"https://github.com/coolbutuseless/visvalingam"},
   { "package":"xxhashlite"     , "url":"https://github.com/coolbutuseless/xxhashlite"},
   { "package":"yyjsonr"        , "url":"https://github.com/coolbutuseless/yyjsonr"},
+  { "package":"zap"            , "url":"https://github.com/coolbutuseless/zap"},
   { "package":"zstdlite"       , "url":"https://github.com/coolbutuseless/zstdlite"}
 ]

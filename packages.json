@@ -6,6 +6,7 @@
   { "package":"callme"         , "url":"https://github.com/coolbutuseless/callme"},
   { "package":"carelesswhisper", "url":"https://github.com/coolbutuseless/carelesswhisper"},
   { "package":"colorfast"      , "url":"https://github.com/coolbutuseless/colorfast"},
+  { "package":"crosswordio"    , "url":"https://github.com/coolbutuseless/crosswordio"},
   { "package":"cryptorng"      , "url":"https://github.com/coolbutuseless/cryptorng"},
   { "package":"ctypesio"       , "url":"https://github.com/coolbutuseless/ctypesio"},
   { "package":"emphatic"       , "url":"https://github.com/coolbutuseless/emphatic"},

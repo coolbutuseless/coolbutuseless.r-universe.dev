@@ -13,6 +13,7 @@
   { "package":"fastpng"        , "url":"https://github.com/coolbutuseless/fastpng"},
   { "package":"feck"           , "url":"https://github.com/coolbutuseless/feck"},
   { "package":"flexo"          , "url":"https://github.com/coolbutuseless/flexo"},
+  { "package":"flexfont"       , "url":"https://github.com/coolbutuseless/flexfont"},
   { "package":"ggpattern"      , "url":"https://github.com/coolbutuseless/ggpattern"},
   { "package":"ggsvg"          , "url":"https://github.com/coolbutuseless/ggsvg"},
   { "package":"governor"       , "url":"https://github.com/coolbutuseless/governor"},

@@ -22,6 +22,7 @@
   { "package":"kissatire"      , "url":"https://github.com/coolbutuseless/kissatire"},
   { "package":"lofifonts"      , "url":"https://github.com/coolbutuseless/lofifonts"},
   { "package":"lz4lite"        , "url":"https://github.com/coolbutuseless/lz4lite"},
+  { "package":"minipdf"        , "url":"https://github.com/coolbutuseless/lminipd"},
   { "package":"nara"           , "url":"https://github.com/coolbutuseless/nara"},
   { "package":"openf1r"        , "url":"https://github.com/coolbutuseless/openf1r"},
   { "package":"poissoned"      , "url":"https://github.com/coolbutuseless/poissoned"},
